@@ -20,6 +20,7 @@ function Movie({id, mImage, title, rating, summary, genres}){
                     ))}
                 </ul> 
                 <p>{summary}</p>
+                <span>test</span>
             </div>
         </div>
     )
