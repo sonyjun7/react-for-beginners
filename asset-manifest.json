@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/sonyjun7/react-for-beginners/static/css/main.cc459518.css",
-    "main.js": "/sonyjun7/react-for-beginners/static/js/main.583ec745.js",
-    "index.html": "/sonyjun7/react-for-beginners/index.html",
-    "main.cc459518.css.map": "/sonyjun7/react-for-beginners/static/css/main.cc459518.css.map",
-    "main.583ec745.js.map": "/sonyjun7/react-for-beginners/static/js/main.583ec745.js.map"
+    "main.css": "/react-for-beginners/static/css/main.cc459518.css",
+    "main.js": "/react-for-beginners/static/js/main.583ec745.js",
+    "index.html": "/react-for-beginners/index.html",
+    "main.cc459518.css.map": "/react-for-beginners/static/css/main.cc459518.css.map",
+    "main.583ec745.js.map": "/react-for-beginners/static/js/main.583ec745.js.map"
   },
   "entrypoints": [
     "static/css/main.cc459518.css",
